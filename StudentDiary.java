@@ -28,7 +28,7 @@ class StudentDiary
 		/*Association of other classes*/
 
 		Student[] s = new Student[30]; 
-		StudentHistory sh = new StudentHistory();
+		StudentHistory sh = old StudentHistory();
 		Placements p = new Placements();
 		Courses cor = new Courses();
 		Results re = new Results();
