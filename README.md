@@ -1,4 +1,4 @@
-# Student-Information-System
+# SIMS - Student Information Management System
 
 SIMS - A simple student information management system build using Core Java. Helps in managing and tracking the student-related data, such as profile, marks, courses, event participations and placement details.
 
