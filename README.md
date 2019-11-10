@@ -4,6 +4,8 @@ SIMS - A simple student information management system build using Core Java. Hel
 
 **Note:** This project can be only run via  **Command Line Interface**.
 
+This project was done as part of my (15CSE202) Object Oriented Programming course.
+
 ## Project Objectives
 
 This project was created to understand fundamental OOPs concepts such as,
